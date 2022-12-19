@@ -5,9 +5,9 @@
         @click="rail = false">
       <v-list>
         <v-list-item
-          prepend-avatar="https://randomuser.me/api/portraits/women/85.jpg"
-          title="Sandra Adams"
-          subtitle="sandra_a88@gmailcom"
+          prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
+          title="Bryce McKenney"
+          subtitle="brycemckenney@gmail.com"
         ></v-list-item>
 
         <v-list-item>

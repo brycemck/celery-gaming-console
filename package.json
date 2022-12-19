@@ -8,9 +8,12 @@
   },
   "dependencies": {
     "@mdi/font": "7.0.96",
+    "firebase": "^9.15.0",
+    "pinia": "^2.0.28",
     "roboto-fontface": "*",
     "vue": "^3.2.38",
     "vue-router": "^4.0.13",
+    "vuefire": "^3.0.0-beta.6",
     "vuetify": "^3.0.0",
     "webfontloader": "^1.0.0"
   },
